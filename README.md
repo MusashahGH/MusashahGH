@@ -34,7 +34,19 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusashahGH&layout=compact&theme=radical)
 
+---
 
+## 🌐 Global Visitors
+
+🌎 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MusashahGH&left_color=purple&right_color=orange)
+
+---
+
+## 👁️ Profile Views
+
+👁️ ![Profile views](https://komarev.com/ghpvc/?username=MusashahGH&color=green&style=for-the-badge)
+
+---
 
 ## 🌐 Connect With Me
 
