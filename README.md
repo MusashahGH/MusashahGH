@@ -28,13 +28,13 @@
 
 ## 📊 GitHub Stats
 
-![Musa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusasahGH&show_icons=true&theme=tokyonight)
+![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MusashahGH&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
 
