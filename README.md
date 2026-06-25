@@ -1,4 +1,4 @@
-![banner](./banner.png)
+ ![banner](./banner.png)
 
 # Hi, I'm Musa Shah! 👋
 
@@ -18,11 +18,22 @@
 
 ## 📂 Featured Repositories
 
-- 🔗 [DSA C++ Projects](https://github.com/MusasahGH/dsa-cpp-projects)
-- 🗄️ [MySQL Practice](https://github.com/MusasahGH/mysql-projects)
+- 🐍 [Learning Python](https://github.com/MusashahGB/learning-python)  
+- ⚡ [Learning DSA in C++](https://github.com/MusashahGB/learning-DSA-in-CPP)  
+- 🚀 [DSA C++ Project](https://github.com/MusashahGB/DSA-cpp-project)  
+- 🗄️ [MySQL Project](https://github.com/MusashahGB/mysql-project)
+
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Musa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusasahGH&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
