@@ -13,6 +13,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ---
 
@@ -23,13 +27,15 @@
 [![DSA C++ Project](https://img.shields.io/badge/Open-DSA_C++_Project-orange?style=for-the-badge&logo=github)](https://github.com/MusashahGH/DSA-cpp-project)  
 [![MySQL Project](https://img.shields.io/badge/Open-MySQL_Project-yellow?style=for-the-badge&logo=mysql)](https://github.com/MusashahGH/mysql-project)
 [![Calculator Python OOP](https://img.shields.io/badge/Open-Calculator_Python_OOP-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/Calculator-Python-OOP)
+[![HTML & CSS Website](https://img.shields.io/badge/Open-HTML_&_CSS_Website-red?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MusashahGH/GameVault)
 
 
 ---
 
 
 ## 📊 GitHub Stats
-![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MusashahGH&show_icons=true&theme=radical)
+![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MusashahGB&show_icons=true&theme=radical)
+
 
 ---
 
