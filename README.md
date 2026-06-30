@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MusashahGB&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MusashahGH&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 ---
 
