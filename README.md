@@ -34,13 +34,14 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MusashahGH&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MusashahGH&theme=radical)](https://github.com/MusashahGH)
 
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusashahGH&layout=compact&theme=radical)
 
 ---
+
 
 ## 🌐 Global Visitors
 
