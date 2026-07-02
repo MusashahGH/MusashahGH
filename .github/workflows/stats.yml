@@ -1,0 +1,15 @@
+name: Generate GitHub Stats SVG
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-readme-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anuraghazra/github-readme-stats/actions/top-langs@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: MusashahGH
+          output: top-langs.svg
