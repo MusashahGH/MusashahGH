@@ -1,15 +1,29 @@
-name: Generate GitHub Stats SVG
+name: Update README cards
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  github-readme-stats:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: anuraghazra/github-readme-stats/actions/top-langs@master
+      - uses: actions/checkout@v4
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: MusashahGH
-          output: top-langs.svg
+          card: top-langs
+          options: username=MusashahGH&layout=compact&theme=radical
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update stats cards" || exit 0
+          git push
