@@ -23,6 +23,7 @@
 ## 📂 Featured Projects
 
 [![Calculator Python OOP](https://img.shields.io/badge/Open-Calculator_Python_OOP-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/Calculator-Python-OOP)
+[![Python Mini Projects](https://img.shields.io/badge/Open-Python_Mini_Projects-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/python-mini-projects)
 [![Learning Python](https://img.shields.io/badge/Open-Learning_Python-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/learning-python)  
 [![DSA C++ Project](https://img.shields.io/badge/Open-DSA_C++_Project-orange?style=for-the-badge&logo=github)](https://github.com/MusashahGH/DSA-cpp-project) 
 [![DSA in C++](https://img.shields.io/badge/Open-DSA_in_CPP-green?style=for-the-badge&logo=cplusplus)](https://github.com/MusashahGH/learning-DSA-in-CPP)  
