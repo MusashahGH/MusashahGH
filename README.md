@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MusashahGH&theme=radical)](https://github.com/MusashahGH)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MusashahGH&theme=radical)](https://github.com/MusashahGH)
 
 ---
 
