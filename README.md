@@ -31,7 +31,7 @@
 [![DSA in C++](https://img.shields.io/badge/Open-DSA_in_CPP-green?style=for-the-badge&logo=cplusplus)](https://github.com/MusashahGH/learning-DSA-in-CPP)  
 [![MySQL Project](https://img.shields.io/badge/Open-MySQL_Project-yellow?style=for-the-badge&logo=mysql)](https://github.com/MusashahGH/mysql-project)
 [![HTML & CSS Website](https://img.shields.io/badge/Open-HTML_&_CSS_Website-red?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MusashahGH/GameVault)
-
+[![Portfolio Website](https://img.shields.io/badge/Open-Portfolio_Website-9cf?style=for-the-badge&logo=vercel)](https://my-portfolio-musa-shah.vercel.app/)
 
 ---
 
@@ -62,5 +62,5 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/musa-shah-6244a341a/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://my-portfolio-musa-shah.vercel.app/)
 
