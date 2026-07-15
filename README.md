@@ -31,7 +31,7 @@
 [![DSA in C++](https://img.shields.io/badge/Open-DSA_in_CPP-green?style=for-the-badge&logo=cplusplus)](https://github.com/MusashahGH/learning-DSA-in-CPP)  
 [![MySQL Project](https://img.shields.io/badge/Open-MySQL_Project-yellow?style=for-the-badge&logo=mysql)](https://github.com/MusashahGH/mysql-project)
 [![HTML & CSS Website](https://img.shields.io/badge/Open-HTML_&_CSS_Website-red?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MusashahGH/GameVault)
-[![Portfolio Website](https://img.shields.io/badge/Open-Portfolio_Website-9cf?style=for-the-badge&logo=vercel)](https://my-portfolio-musa-shah.vercel.app/)
+[![Portfolio Website](https://img.shields.io/badge/Open-Portfolio_Website-9cf?style=for-the-badge&logo=vercel)](https://github.com/MusashahGH/My-Portfolio)
 
 ---
 
