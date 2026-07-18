@@ -69,7 +69,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/musa-shah-6244a341a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://my-portfolio-musa-shah.vercel.app/)
-[![Download CV](https://img.shields.io/badge/Download-My%20CV-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MusashahGH/MusashahGH/raw/main/Musa-Shah-CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download-My%20CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/MusashahGH/MusashahGH/raw/main/MUSA_SHAH_CV.pdf)
 
 ---
 
@@ -80,3 +80,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MusashahGH/MusashahGH/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MusashahGH/MusashahGH/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me+%F0%9F%98%8A)](https://git.io/typing-svg)
+
