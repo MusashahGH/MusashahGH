@@ -35,6 +35,12 @@
 
 ---
 
+### 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MusashahGH&theme=github-compact)
+
+---
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MusashahGH&theme=radical)](https://github.com/MusashahGH)
@@ -63,4 +69,14 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/musa-shah-6244a341a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://my-portfolio-musa-shah.vercel.app/)
+[![Download CV](https://img.shields.io/badge/Download-My%20CV-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MusashahGH/MusashahGH/raw/main/Musa-Shah-CV.pdf)
 
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusashahGH/MusashahGH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MusashahGH/MusashahGH/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MusashahGH/MusashahGH/output/github-contribution-grid-snake.svg">
+</picture>
