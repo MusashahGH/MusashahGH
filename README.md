@@ -23,6 +23,7 @@
 ## 📂 Featured Projects
 
 [![Calculator Python OOP](https://img.shields.io/badge/Open-Calculator_Python_OOP-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/Calculator-Python-OOP)
+[![Movie Ticket Booking System](https://img.shields.io/badge/Open-Movie_Ticket_Booking_System-red?style=for-the-badge&logo=python)](https://github.com/MusashahGH/movie-ticket-booking-system)
 [![Python Mini Projects](https://img.shields.io/badge/Open-Python_Mini_Projects-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/python-mini-projects)
 [![Minesweeper Game](https://img.shields.io/badge/Open-Minesweeper_Game-green?style=for-the-badge&logo=python)](https://github.com/MusashahGH/minesweeper-python-game)
 [![Pandas Data Analysis](https://img.shields.io/badge/Open-Pandas_Data_Analysis-purple?style=for-the-badge&logo=python)](https://github.com/MusashahGH/pandas-data-analysis-practice)
